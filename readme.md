@@ -203,3 +203,4 @@ HttpResponse<String> response = Unirest.post("http://localhost/")
 ```
 
 ### API built using: XAMPP and Postman (for testing)
+### Licensed under [MIT license](https://raw.githubusercontent.com/Shetty073/simple-php-insert-api/master/LICENSE)
