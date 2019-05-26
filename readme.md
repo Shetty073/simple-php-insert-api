@@ -201,6 +201,8 @@ HttpResponse<String> response = Unirest.post("http://localhost/")
   .header("cache-control", "no-cache")
   .asString();
 ```
+### Some of these headers are not necessary
 
-### API built using: XAMPP and Postman (for testing)
-### Licensed under [MIT license](https://raw.githubusercontent.com/Shetty073/simple-php-insert-api/master/LICENSE)
+#### API built using: XAMPP and Postman (for testing)
+
+#### Licensed under [MIT license](https://raw.githubusercontent.com/Shetty073/simple-php-insert-api/master/LICENSE)
