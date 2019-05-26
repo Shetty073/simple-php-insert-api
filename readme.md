@@ -13,7 +13,7 @@
 * For database connectivity error it will show the error outputted by `mysqli_error($conn)` function
 > Note: I have not tested this API enough to handle different types of errors
 
-> Important: These codes are generated with the Postman API testing utility. They are just for reference purposes. They should not be used directly as they are not tested.
+#### Important: These codes are generated with the Postman API testing utility. They are just for reference purposes. They should not be used directly as they are not tested.
 
 ###### Python (using Requests):
 ```python
