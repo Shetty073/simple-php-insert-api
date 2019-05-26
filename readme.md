@@ -1,6 +1,8 @@
 # A simple php API for inserting data into a database
 
-## You can alter this API as per your use case. Thi is a bare minimum API.
+## You can alter this API as per your use case. This is a bare minimum API.
+
+## Same API based on GET method instead of POST is in the `GET_METHOD` directory
 
 #### Some important notes
 * __This API uses POST method__ instead of GET to protect the information being sent from being captured easily.
@@ -14,6 +16,7 @@
 > Note: I have not tested this API enough to handle different types of errors
 
 #### Important: These codes are generated with the Postman API testing utility. They are just for reference purposes. They should not be used directly as they are not tested.
+* I have provided the test.php file for testing this API (POST method only)
 
 ###### Python (using Requests):
 ```python
